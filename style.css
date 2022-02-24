@@ -23,7 +23,7 @@ section{
 .half-width img{
     width: 80%;
 }
-#explore-button{
+.explore-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
@@ -31,7 +31,7 @@ section{
     font-weight: 700;
 
 }
-.main-heading{
+.my-mission{
     text-align: center;
     font-size: 30px;
 }
@@ -49,4 +49,7 @@ section{
 }
 .background3{
     background-color: lightblue;
+}
+.work-area{
+    padding: 20px;
 }
