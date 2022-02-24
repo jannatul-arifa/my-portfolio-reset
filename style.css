@@ -13,6 +13,8 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
+    text-align: justify;
 }
 .half-width{
     width: 50%;
@@ -30,5 +32,21 @@ section{
 
 }
 .main-heading{
-    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+.mission-area{
+    padding: 20px;
+    border: 10px solid white ;
+    border-radius: 25px;
+    margin: 10px 30px;
+}
+.background1{
+    background-color: pink;
+}
+.background2{
+    background-color: lavender;
+}
+.background3{
+    background-color: lightblue;
 }
